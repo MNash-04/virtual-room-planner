@@ -10,15 +10,15 @@ https://virtualroom-planner.vercel.app/
 
 ### 2D View
 
-![2D View](./screenshots/2D%20Example.jpg)
+![2D View](./2D%20Example.jpg)
 
 ### 3D View
 
-![3D View](./screenshots/3D%20Example.jpg)
+![3D View](./3D%20Example.jpg)
 
 ### First-Person View
 
-![First-Person View](./screenshots/First-Person%20Example.jpg)
+![First-Person View](./First-Person%20Example.jpg)
 
 ## VR Support
 
