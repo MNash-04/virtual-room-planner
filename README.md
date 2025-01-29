@@ -9,21 +9,21 @@ https://virtualroom-planner.vercel.app/
 
 ## Preview
 
-![VRP Preview](https://raw.githubusercontent.com/MNash-04/virtual-room-planner/main/VRP%20Preview%20Compressed.mp4)
+https://github.com/user-attachments/assets/7e7da76c-7754-4bc7-b239-0fb1f5a22ad5
 
 ## Showcases
 
 ### 2D View
 
-![2D View](https://raw.githubusercontent.com/MNash-04/virtual-room-planner/main/2D%20Example.jpg)
+![2D Example](https://github.com/user-attachments/assets/3f817045-232d-4c8e-a05c-7c2a7e82a7b9)
 
 ### 3D View
 
-![3D View](https://raw.githubusercontent.com/MNash-04/virtual-room-planner/main/3D%20Example.jpg)
+![3D Example](https://github.com/user-attachments/assets/88776c09-a2e4-4b3f-898a-635daaf8313b)
 
 ### First-Person View
 
-![First-Person View](https://raw.githubusercontent.com/MNash-04/virtual-room-planner/main/First-Person%20Example.jpg)
+![First-Person Example](https://github.com/user-attachments/assets/d67baeb5-5ad2-4558-9185-e241c14a7759)
 
 ## VR Support
 
