@@ -7,6 +7,10 @@ This VirtualRoom Planner is a user-friendly web-based application that allows us
 
 https://virtualroom-planner.vercel.app/
 
+## Preview
+
+![VRP Preview](https://raw.githubusercontent.com/MNash-04/virtual-room-planner/main/VRP%20Preview.mp4)
+
 ## Showcases
 
 ### 2D View
