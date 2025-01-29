@@ -15,11 +15,11 @@ https://virtualroom-planner.vercel.app/
 
 ### 3D View
 
-![3D View](./3D%20Example.jpg)
+![3D View](https://raw.githubusercontent.com/MNash-04/virtual-room-planner/main/3D%20Example.jpg)
 
 ### First-Person View
 
-![First-Person View](./First-Person%20Example.jpg)
+![First-Person View](https://raw.githubusercontent.com/MNash-04/virtual-room-planner/main/First-Person%20Example.jpg)
 
 ## VR Support
 
