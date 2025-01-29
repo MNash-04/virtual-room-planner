@@ -11,7 +11,7 @@ https://virtualroom-planner.vercel.app/
 
 ### 2D View
 
-![2D View](./2D%20Example.jpg)
+![2D View](https://raw.githubusercontent.com/MNash-04/virtual-room-planner/main/2D%20Example.jpg)
 
 ### 3D View
 
