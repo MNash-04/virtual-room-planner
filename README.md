@@ -9,7 +9,7 @@ https://virtualroom-planner.vercel.app/
 
 ## Preview
 
-![VRP Preview](https://raw.githubusercontent.com/MNash-04/virtual-room-planner/main/VRP%20Preview.mp4)
+![VRP Preview](https://raw.githubusercontent.com/MNash-04/virtual-room-planner/main/VRP%20Preview%20Compressed.mp4)
 
 ## Showcases
 
